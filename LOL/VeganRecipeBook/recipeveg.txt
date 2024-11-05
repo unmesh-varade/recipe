@@ -1,0 +1,3 @@
+Maggi;Maggi|2|packets,;Boil Maggi.;8.00
+Vegan Salad;Lettuce|1.00|bowl,Tomato|2.00|pieces,Cucumber|1.00|piece,;Mix all ingredients together and serve.;10.00
+Vegan Pasta;Pasta|200.00|grams,Olive Oil|2.00|tablespoons,Garlic|2.00|cloves,;Cook pasta, sauté garlic, mix and serve.;20.00

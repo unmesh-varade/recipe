@@ -1,0 +1,3 @@
+Chicken Curry;Chicken|500|grams,Onion|2|pieces,Garlic|5|cloves,Ginger|1|piece,Tomato|3|pieces,Spices|2|tablespoons,;Fry onions, garlic, and ginger. Add chicken and cook. Add tomatoes and spices. Simmer until cooked.;10.30
+Beef Stew;Beef|300.00|grams,Potato|2.00|pieces,Carrot|1.00|piece,;Cook beef, add vegetables, simmer until tender.;20.34
+Sushi;Sushi Rice|2.00|cups,Nori|4.00|sheets,Salmon|200.00|grams,Cucumber|1.00|piece,Soy Sauce|50.00|ml,;Prepare sushi rice. Place nori on mat, spread rice, add salmon and cucumber. Roll and slice.;50.23

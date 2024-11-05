@@ -1,0 +1,29 @@
+Apple Pie;Apples|5|pieces,Sugar|1|cup,Flour|2|cups,Butter|100|grams,Cinnamon|1|teaspoon,;Prepare dough. Slice apples. Mix apples with sugar and cinnamon. Place in dough. Bake at 180°C for 45 minutes.
+Tacos;ame1|2|units1,Name2|3|units2,;Cook beef. Warm tortillas. Add beef, cheese, lettuce, tomato, and salsa to tortillas.
+Miso Soup;Miso Paste|2|tablespoons,Tofu|100|grams,Seaweed|1|piece,Green Onions|2|stalks,;Boil water. Add miso paste, tofu, seaweed, and green onions. Simmer for 5 minutes.
+Risotto;Rice|2|cups,Chicken Broth|4|cups,Parmesan|100|grams,Butter|2|tablespoons,Onion|1|piece,;Cook onion in butter. Add rice and broth gradually. Stir until creamy. Add Parmesan.
+Cheesecake;Cream Cheese|500|grams,Sugar|1|cup,Eggs|3|pieces,Graham Crackers|1|cup,Butter|100|grams,;Mix cream cheese, sugar, and eggs. Press crackers and butter into pan. Pour mixture. Bake at 160°C for 45 minutes.
+Caesar Salad;Romaine Lettuce|1|head,Croutons|1|cup,Parmesan|50|grams,Caesar Dressing|3|tablespoons,;Chop lettuce. Add croutons, Parmesan, and dressing. Mix well.
+Pad Thai;Rice Noodles|200|grams,Shrimp|200|grams,Tofu|100|grams,Peanuts|50|grams,Tamarind Paste|2|tablespoons,;Cook noodles. Stir fry shrimp, tofu, and peanuts. Add noodles and tamarind paste.
+Spaghetti Bolognese;Spaghetti|200|grams,Ground Beef|200|grams,Tomato Sauce|2|cups,Onion|1|piece,Garlic|3|cloves,;Cook beef, onion, and garlic. Add tomato sauce. Serve over spaghetti.
+Pasta Carbonara;Pasta|200|grams,Bacon|100|grams,Eggs|2|pieces,Parmesan|50|grams,Black Pepper|1|teaspoon,;Cook pasta. Fry bacon. Mix eggs and cheese. Combine pasta, bacon, and egg mixture.
+Chicken Alfredo;Pasta|200|grams,Chicken Breast|200|grams,Alfredo Sauce|1|cup,Parmesan|50|grams,Butter|1|tablespoon,;Cook pasta. Saute chicken. Add Alfredo sauce and Parmesan. Mix with pasta.
+Greek Salad;Cucumber|1|piece,Tomato|2|pieces,Feta Cheese|100|grams,Olives|50|grams,Olive Oil|2|tablespoons,;Chop vegetables. Mix with cheese, olives, and olive oil.
+Mac and Cheese;Macaroni|200|grams,Cheddar Cheese|200|grams,Milk|1|cup,Butter|2|tablespoons,Flour|2|tablespoons,;Cook macaroni. Make sauce with butter, flour, milk, and cheese. Mix with macaroni.
+Omelette;Eggs|3|pieces,Cheese|50|grams,Onion|1|piece,Bell Pepper|1|piece,Butter|1|tablespoon,;Beat eggs. Cook with cheese, onion, and bell pepper in butter.
+Quiche;Pie Crust|1|piece,Eggs|4|pieces,Cream|1|cup,Cheese|200|grams,Spinach|100|grams,;Mix eggs, cream, cheese, and spinach. Pour into crust. Bake at 180°C for 30 minutes.
+Brownies;Chocolate|200|grams,Butter|100|grams,Sugar|1|cup,Flour|1|cup,Eggs|3|pieces,;Melt chocolate and butter. Mix with sugar, flour, and eggs. Bake at 180°C for 25 minutes.
+Fish and Chips;Fish Fillets|2|pieces,Potatoes|3|pieces,Flour|1|cup,Beer|1|cup,;Coat fish in flour and beer batter. Fry fish and chips until golden.
+Pasta;Tomato Sauce|2|cups,Basil|5|leaves,Garlic|3|cloves,Pasta|200|grams,;Boil pasta. Saute garlic in olive oil. Add tomato sauce and basil. Mix with pasta.
+Pizza;Pizza Dough|1|piece,Tomato Sauce|1|cup,Cheese|200|grams,Pepperoni|50|grams,Mushrooms|100|grams,;Spread tomato sauce on dough. Add cheese, pepperoni, and mushrooms. Bake at 200°C for 20 minutes.
+Pancakes;Flour|2|cups,Eggs|2|pieces,Milk|1|cup,Sugar|2|tablespoons,Baking Powder|1|tablespoon,;Mix all ingredients. Pour onto hot griddle. Flip when bubbles form. Serve with syrup.
+Falafel;Chickpeas|2|cups,Onion|1|piece,Garlic|3|cloves,Parsley|1|bunch,Spices|2|teaspoons,;Blend all ingredients. Form into balls. Fry until golden.
+Biryani;Rice|2|cups,Chicken|500|grams,Yogurt|1|cup,Spices|2|tablespoons,Onions|2|pieces,;Cook chicken with spices and yogurt. Layer with rice and fried onions. Cook on low heat.
+Chicken Wings;Chicken Wings|1|kg,BBQ Sauce|1|cup,Garlic Powder|1|teaspoon,Salt|1|teaspoon,Pepper|1|teaspoon,;Season wings. Bake at 200°C for 40 minutes. Toss in BBQ sauce.
+Chocolate Cake;Flour|2|cups,Sugar|2|cups,Cocoa Powder|1|cup,Eggs|4|pieces,Butter|200|grams,;Mix flour, sugar, cocoa, eggs, and butter. Bake at 180°C for 30 minutes.
+BBQ Ribs;Pork Ribs|1|rack,BBQ Sauce|1|cup,Salt|1|teaspoon,Pepper|1|teaspoon,Garlic Powder|1|teaspoon,;Season ribs. Bake at 150°C for 2 hours. Brush with BBQ sauce and grill.
+Burger;Beef Patty|1|piece,Burger Bun|1|piece,Cheese|1|slice,Lettuce|1|leaf,Tomato|1|slice,Ketchup|1|tablespoon,;Cook beef patty. Assemble bun with patty, cheese, lettuce, tomato, and ketchup.
+Lasagna;Lasagna Noodles|12|pieces,Ground Beef|500|grams,Tomato Sauce|3|cups,Ricotta|500|grams,Mozzarella|200|grams,;Layer noodles, beef, sauce, ricotta, and mozzarella. Bake at 180°C for 45 minutes.
+Salad;Lettuce|1|head,Tomato|2|pieces,Cucumber|1|piece,Olive Oil|2|tablespoons,;Chop all vegetables. Mix with olive oil.
+Hummus;Chickpeas|2|cups,Tahini|1|cup,Lemon Juice|2|tablespoons,Garlic|2|cloves,Olive Oil|2|tablespoons,;Blend all ingredients until smooth.
+Stuffed Peppers;Bell Peppers|4|pieces,Rice|1|cup,Ground Beef|200|grams,Tomato Sauce|1|cup,Cheese|50|grams,;Cook rice and beef. Mix with tomato sauce. Stuff peppers and top with cheese. Bake at 180°C for 30 minutes.
