@@ -11,7 +11,7 @@ class Customer : public User
 {
 public:
     Customer(string n) : User(n) {}
-
+    int a;
     // Function to place an order
     Order placeOrder(const vector<Recipe> &dishes)
     {
